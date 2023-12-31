@@ -81,6 +81,10 @@ body{
     color: #ffffff;
     transition: 0.3s;
 }
+.head-cont .links button a{
+    text-decoration: none;
+    color: #ffffff;
+}
 .head-cont .links button:hover{
     transform: scale(1.3);
 }
